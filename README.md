@@ -76,5 +76,14 @@
       />
       <br /><strong>PostgreSQL</strong>
     </td>
+   <td align="center" height="108" width="108">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+    width="48"
+    height="48"
+    alt="TensorFlow"
+  />
+  <br /><strong>TensorFlow</strong>
+</td>
   </tr>
 </table>
